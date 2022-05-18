@@ -1,0 +1,2 @@
+# birinchibot
+salom
